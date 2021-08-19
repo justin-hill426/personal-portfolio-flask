@@ -12,3 +12,9 @@ that I've been working on in the summer of 2021
 - Python app.py on a Windows/PC
 Afterwards you can go to http://127.0.0.1:8000/ and check out 
 the website! Cheers!
+  
+##What I learned
+Coding is so fun! The more you learn to program, the more effective you can be at solving real
+problems. This will be the first of many websites that I will be publishing.
+I want to continue to learn more and am glad that a Software Engineering track
+provides me with so much yet to learn.
